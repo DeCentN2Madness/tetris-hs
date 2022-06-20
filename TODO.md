@@ -1,6 +1,7 @@
-* Wall kicks/bounces
-* Points
-* Highscores
-* Game Over Screen
-* Speed increase
-* More Testing
+- convert stack dependency to nix
+- Wall kicks/bounces
+- Points
+- Highscores
+- Game Over Screen
+- Speed increase
+- More Testing
